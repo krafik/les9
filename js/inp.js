@@ -10,7 +10,7 @@ function showUser(surname, name) {
 }
 // console.log()
 // showUser('алекс', 'lol');
-console.log(showUser.apply(age,['krav', 'alex']));
+console.log(showUser.apply(age, ['krav', 'alex']));
 
 // let user = {
 //   name: 'john'
